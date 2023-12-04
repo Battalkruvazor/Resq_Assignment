@@ -1,1 +1,1 @@
-# Resq_Assignment
+My database viewer of choice, the one I used before in my work DBeaver, did not work with this database. So I recoursed to using python and sqlite. The ease of retrieving the public holidays data was an advantage. Displaying tables in console was a disadvantage. Thanks for giving me the chance! 
